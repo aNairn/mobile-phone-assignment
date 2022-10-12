@@ -1,1 +1,10 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Mobile Phones & E-Waste</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+        <h1>Welcome to our website about Mobile Phones & E-Waste</h1>  
+  </body>
+</html>
