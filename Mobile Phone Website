@@ -2,22 +2,27 @@
 <html lang="en">
   <head>
     <title>Mobile Phones & E-Waste</title>
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
         <h1>Welcome to our website about Mobile Phones & E-Waste</h1>
-        <p>We agreed on the theme of mobile phones and the e-waste that they generate from manufacturing, planned obsolescence and raw material usage. We had 4 of us working on the project so we brainstormed 4 general bullet points relating to the theme and planned to write out roughly 2 pages of information each from many different sources. We aimed to have the plan finished by Tuesday 4th ahead of the deadline and have the 2 pages of information finished by Tuesday 11th ahead of the deadline. We aim to have made a start on the code for our website, starting with the CSS file and general layout, by the 15th before having it completed by the 22nd, including the navigation tools and bibliography, to allow time to test it and make any necessary changes to errors found and graphical bugs.
 
-	Once the information is gathered together we will create a basic but functional html file to insert the research data into. Then once the html file works as intended in a web browser and displays the paragraphs of research information properly we will add a css file to the html file to improve the graphics and make the website more appealing to users. We will add images, colours and formatting to make the webpage more aesthetically pleasing and easier to read for the user. While adding css elements we will be constantly checking over the html file in a browser to ensure the css changes are being displayed as intended and look appealing.
+	<p>We agreed on the theme of mobile phones and the e-waste that they generate from manufacturing, planned obsolescence and raw material usage. We had 4 of us working on the project so we brainstormed 4 general bullet points relating to the theme and planned to write out roughly 2 pages of information each from many different sources. We aimed to have the plan finished by Tuesday 4th ahead of the deadline and have the 2 pages of information finished by Tuesday 11th ahead of the deadline. We aim to have made a start on the code for our website, starting with the CSS file and general layout, by the 15th before having it completed by the 22nd, including the navigation tools and bibliography, to allow time to test it and make any necessary changes to errors found and graphical bugs.</p>
 
-Adam will discuss the topic of right to repair and planned obsolescence in the smartphone market. This refers to the consumer of a smartphone being allowed to perform repairs to components of their device if they are damaged or lose functionality and planned obsolescence refers to a business practice where a smartphone becomes less responsive, drains battery life faster and more issues to heavily encourage the consumer to upgrade their device to a newer model earlier than they anticipated as the hardware is still as capable as it was previously.
-Michael will discuss the topic of e-waste and landfills. In this I will talk about what e-waste is and why it is becoming more of a problem. the growing impact of e-waste that it has on the environment as well as to people’s health. As the production rate of the number of electronic gadgets increases this poses a big question for how we as a society are going to try to tackle the e-waste problem by recycling. I will also discuss how the bigger countries deal with this problem and the negative effects on this morally and as well environmentally as well as the statistics that go along with that. 
-Robert Nairn is looking at the waste and emissions of mobile phone factories and the problems associated with them such as hazardous components and unsafe working environments, as well as, the extraction of finite natural resources from mines around the world which can lead to destabilisation in the region.
-Lewis McGregor is looking at the effect of plastic phone cases. This will involve the effect of billions of plastic phone cases sold each year and how most people get rid of them. I will look at how the mass dumping/burning of these plastic phone cases and batteries are causing a lot of damage to our bodies and planet. It will also involve a little ways to discard a phone case correctly.<p>
+	<p>Once the information is gathered together we will create a basic but functional html file to insert the research data into. Then once the html file works as intended in a web browser and displays the paragraphs of research information properly we will add a css file to the html file to improve the graphics and make the website more appealing to users. We will add images, colours and formatting to make the webpage more aesthetically pleasing and easier to read for the user. While adding css elements we will be constantly checking over the html file in a browser to ensure the css changes are being displayed as intended and look appealing.</p>
 
+	<p>Adam will discuss the topic of right to repair and planned obsolescence in the smartphone market. This refers to the consumer of a smartphone being allowed to perform repairs to components of their device if they are damaged or lose functionality and planned obsolescence refers to a business practice where a smartphone becomes less responsive, drains battery life faster and more issues to heavily encourage the consumer to upgrade their device to a newer model earlier than they anticipated as the hardware is still as capable as it was previously.</p>
 
-        <a href="adam.html">Adam's Webpage</a>
-        <a href="andy.html">Robert's Webpage</a>
-        
+	<p>Michael will discuss the topic of e-waste and landfills. In this I will talk about what e-waste is and why it is becoming more of a problem. the growing impact of e-waste that it has on the environment as well as to people's health. As the production rate of the number of electronic gadgets increases this poses a big question for how we as a society are going to try to tackle the e-waste problem by recycling. I will also discuss how the bigger countries deal with this problem and the negative effects on this morally and as well environmentally as well as the statistics that go along with that.</p>
+
+	<p>Robert Nairn is looking at the waste and emissions of mobile phone factories and the problems associated with them such as hazardous components and unsafe working environments, as well as, the extraction of finite natural resources from mines around the world which can lead to destabilisation in the region.</p>
+
+	<p>Lewis McGregor is looking at the effect of plastic phone cases. This will involve the effect of billions of plastic phone cases sold each year and how most people get rid of them. I will look at how the mass dumping/burning of these plastic phone cases and batteries are causing a lot of damage to our bodies and planet. It will also involve a little ways to discard a phone case correctly.</p>
+
+  <a href="Adam.html">Adam's Webpage</a>
+	<a href="Andy.html">Andy's Webpage</a>
+	<a href="Lewis.html">Lewis's Webpage</a>
+	<a href="Michael.html">Michael's Webpage</a>
+
   </body>
 </html>
