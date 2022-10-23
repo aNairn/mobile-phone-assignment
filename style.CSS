@@ -16,7 +16,6 @@ nav {height:60px}
 nav {clear:both}
 
 /* Navigation List Properties */
-nav ul {list-style-type:none}
 nav ul {
   list-style-type: none;
   margin: 0;
