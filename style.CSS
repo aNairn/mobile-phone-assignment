@@ -60,5 +60,5 @@ li a:hover {
 /* Margins */
 body {margin:auto}
 h1 {margin-left:25px;margin-top:50px;margin-right:25px}
-nav{ margin-top : 20px ; margin-bottom : 20px}
+nav{ margin-top : 20px ; margin-bottom : 20px ; margin-left : 10px;}
 p{margin:30px}
